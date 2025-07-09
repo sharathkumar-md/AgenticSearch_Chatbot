@@ -2,7 +2,6 @@
 
 This project is an intelligent web search and data analysis pipeline built with Streamlit. It allows users to upload CSV files or connect Google Sheets, run customized searches across their data using various AI models, and interact with the results through a chat interface.
 
-**Video walkthrough of this project:** https://drive.google.com/file/d/175EDThXr_33pV0LXefQ05OVoK49OJgZt/view?usp=sharing
 
 ## 🚀 Features
 
