@@ -50,7 +50,7 @@ cd your-repo-name
 2.Create and activate a virtual environment:
 ```bash
 python -m venv venv
-source venv\Scripts\activate
+venv\Scripts\activate.ps1
 ```
 3.Install required packages:
 ```bash
